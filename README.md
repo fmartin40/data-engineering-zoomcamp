@@ -27,7 +27,7 @@ This week focuses on two essential tools:
 - **Docker** for containerization and environment management
 - **Terraform** for deploying infrastructure on Google Cloud
 
-Check out my work in the [Week 1 folder](./Week%201).
+Check out my work in the Week 1 folder.
 
 ---
 
