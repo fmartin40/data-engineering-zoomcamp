@@ -35,7 +35,7 @@ Check out my work in the [Week 1 folder](./Week%201).
 
 I regularly share insights, articles, and updates about the bootcamp and data engineering on LinkedIn. Follow me to stay updated and connect for discussions about data!
 
-👉 [Franck's LinkedIn](https://www.linkedin.com/in/quiago/)
+👉 [Franck's LinkedIn](https://www.linkedin.com/in/franck-martin-dev-data/)
 
 ---
 
