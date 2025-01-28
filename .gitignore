@@ -1,2 +1,12 @@
 ### Environnement virtuel Python ###
 venv
+
+### Base de données ###
+week1/ny_taxi_postgres_data/
+week1/data_pgadmin
+
+### Fichiers Data ###
+*.parquet
+
+### Fichiers spécifiques à Jupyter Notebook ###
+.ipynb_checkpoints/
