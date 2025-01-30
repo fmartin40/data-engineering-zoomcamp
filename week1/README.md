@@ -411,3 +411,20 @@ ORDER BY
     "DOLocationID" ASC
 LIMIT 100;
 ```
+
+## Local Setup for Terraform and GCP
+
+### Pre-Requisites
+- Terraform client installation: [Download Terraform](https://www.terraform.io/downloads)
+- Cloud Provider account: [Google Cloud Console](https://console.cloud.google.com/)
+
+### Terraform Concepts
+[Terraform Overview](https://github.com/DataTalksClub/data-engineering-zoomcamp/blob/main/01-docker-terraform/1_terraform_gcp/1_terraform_overview.md)
+
+### GCP Setup
+1. [Setup for First-time](https://github.com/DataTalksClub/data-engineering-zoomcamp/blob/main/01-docker-terraform/1_terraform_gcp/2_gcp_overview.md#initial-setup)
+   - [Only for Windows](https://github.com/DataTalksClub/data-engineering-zoomcamp/blob/main/01-docker-terraform/1_terraform_gcp/windows.md) - Steps 4 & 5
+2. [IAM / Access specific to this course](https://github.com/DataTalksClub/data-engineering-zoomcamp/blob/main/01-docker-terraform/1_terraform_gcp/2_gcp_overview.md#setup-for-access)
+
+## Terraform Workshop for GCP Infra
+Your setup is ready! Now head to the [terraform](https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main/01-docker-terraform/1_terraform_gcp/terraform) directory, and perform the execution steps to create your infrastructure.
