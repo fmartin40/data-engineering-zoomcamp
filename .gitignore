@@ -4,6 +4,7 @@ venv
 ### Base de données ###
 week1/ny_taxi_postgres_data/
 week1/data_pgadmin
+week2/data_pgadmin
 
 ### Fichiers Data ###
 *.parquet
