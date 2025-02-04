@@ -18,16 +18,8 @@ services:
       interval: 30s
       timeout: 10s
       retries: 10
-
-  pgadmin:
-    image: dpage/pgadmin4
-    environment:
-      - PGADMIN_DEFAULT_EMAIL=admin@admin.com
-      - PGADMIN_DEFAULT_PASSWORD=root
-    volumes:
-      - ./data_pgadmin:/var/lib/pgadmin
-    ports:
-      - "5050:80"
+    # ports:
+    #   - "5431:5432"
 
   kestra:
     image: kestra/kestra:latest
@@ -70,3 +62,13 @@ services:
     depends_on:
       postgres:
         condition: service_started
+
+  pgadmin:
+    image: dpage/pgadmin4
+    environment:
+      - PGADMIN_DEFAULT_EMAIL=admin@admin.com
+      - PGADMIN_DEFAULT_PASSWORD=root
+    volumes:
+      - ./data_pgadmin:/var/lib/pgadmin
+    ports:
+      - "5050:80"
