@@ -15,29 +15,6 @@ In Week 2 of the Data Engineering Zoomcamp, the focus was on understanding workf
 - Schedule workflows and backfill historical data.
 - Integrate dbt for data transformations.
 
-## Commands
-
-### Docker Setup
-
-To launch the Docker Compose file (docker-compose.yml), follow these steps:
-
-- Prepare the directory for pgAdmin data storage:
-
-```bash
-mkdir -p pgadmin-data
-sudo chown -R 5050:5050 pgadmin-data
-sudo chmod -R 700 pgadmin-data
-```
-
-- Launch Docker containers:
-
-```bash
-docker-compose up -d
-```
-
-Access the Kestra web interface at http://localhost:8080  
-Access the PgAdmin web interface at http://localhost:5050
-
 ### Resources
 
 [Kestra Documentation](https://kestra.io/docs)  
