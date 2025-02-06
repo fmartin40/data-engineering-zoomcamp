@@ -15,6 +15,7 @@ week2/data_pgadmin
 
 ### Credentials ###
 keys/
+week2/flows/04_gcp_kv.yaml
 
 # Local .terraform directories
 **/.terraform/*
