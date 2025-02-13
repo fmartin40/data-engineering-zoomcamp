@@ -1,8 +1,8 @@
-# Module  Homework: Workflow Orchestration
+# Module 2 Homework: Workflow Orchestration
 
-Homework instructions for week2: [link](https://github.com/DataTalksClub/data-engineering-zoomcamp/blob/main/cohorts/2025/02-workflow-orchestration/homework.md)
+Homework instructions for week2: [link](https://github.com/DataTalksClub/data-engineering-zoomcamp/blob/main/cohorts/2025/02-workflow-orchestration/homework.md)  
+Solutions: [link](https://github.com/DataTalksClub/data-engineering-zoomcamp/blob/main/cohorts/2025/02-workflow-orchestration/solution.md)  
 
-## Answer-Question 1: Option 1: 128.3 MB
 
 I checked on my bucket the size of the file yellow_tripdata_2020-12.csv and the answer is 128.3 MB.
 
