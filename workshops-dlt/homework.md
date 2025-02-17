@@ -23,7 +23,7 @@ How many tables were created?
 What is the total number of records extracted?
 
 ```bash
-conn.sql("select count(1) from rides")
+10000
 ```
 
 ## Answer-Question 4
