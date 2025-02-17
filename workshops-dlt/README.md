@@ -1,4 +1,4 @@
-# Workshop 1 Homework: Data Ingestion with dlt
+# Workshop 1 : Data Ingestion with dlt
 
 Détails du workshop : [link](https://github.com/DataTalksClub/data-engineering-zoomcamp/blob/main/cohorts/2025/workshops/dlt/README.md)
 
