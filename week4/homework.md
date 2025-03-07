@@ -1,4 +1,4 @@
-# Module 3 Homework: Data Warehouse
+# Module 4 Homework: Data Warehouse
 
 Homework instructions for week4: [link](https://github.com/DataTalksClub/data-engineering-zoomcamp/blob/main/cohorts/2025/04-analytics-engineering/homework.md)
 
